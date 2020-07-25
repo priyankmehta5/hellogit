@@ -1,5 +1,4 @@
 # hellogit
 
 
-LE SOLVE HOGAYA JIIIIILEy
-lkkjjkjijs
+First Repository created while learning Github
